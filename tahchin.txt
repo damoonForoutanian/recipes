@@ -5,3 +5,4 @@
 5. Wait for food.
 6. Eat tahchin.
 7. Thank mama for food.
+8. Go home.
